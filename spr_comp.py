@@ -1,6 +1,5 @@
 import csv
 
-
 #Insheet data 
 comp = csv.reader(open('M:/SPR_cap/spr_composite2.csv', 'r'))
 
